@@ -6,12 +6,12 @@ order: 1
 
 ## 김영준 
 
-Sung-jin Park
+Yeong-Jun KIM
 
-- music5038@gmail.com
+- kyjstar0226@gmail.com
 - Github: [0juuni](https://github.com/0juuni)
 - Instagram: [Instagram](https://www.instagram.com/yeongjun_05)
-- 🇰🇷 Busan, Korea.
+- 🇰🇷 Korea.
 
 ## 기술 스택
 
